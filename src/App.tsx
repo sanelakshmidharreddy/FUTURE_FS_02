@@ -7,7 +7,7 @@ import React from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { Toaster } from 'react-hot-toast';
 import { ErrorBoundary } from './components/ErrorBoundary';
-import DashboardLayout from './components/layout/DashboardLayout';
+import DashboardLayout from './layout/DashboardLayout';
 import Dashboard from './pages/Dashboard';
 import Leads from './pages/Leads';
 import Analytics from './pages/Analytics';

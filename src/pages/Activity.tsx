@@ -1,7 +1,3 @@
-import { useState } from 'react';
-import { Clock, CheckCircle2, UserPlus, LogIn, Filter, RefreshCw, Maximize2, X } from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
-
 import { useState, useEffect } from 'react';
 import { Clock, CheckCircle2, UserPlus, LogIn, Filter, RefreshCw, Maximize2, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
