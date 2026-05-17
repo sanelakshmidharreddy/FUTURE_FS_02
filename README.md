@@ -136,6 +136,8 @@ Step 4 — AI Assistance
 Gemini AI enhances productivity through intelligent support and automation features.
 Step 5 — Database Storage
 All customer and workflow data is securely stored in MongoDB Atlas.
+
+
 🌐 Deployment Workflow
 Vercel
 Used for frontend deployment and fast hosting.
@@ -143,6 +145,8 @@ Render
 Used for backend deployment and server hosting.
 MongoDB Atlas
 Used as cloud database storage.
+
+
 🔑 Environment Variables
 Create a .env file and add:
 Environment
@@ -158,6 +162,8 @@ AI analytics dashboard
 Advanced reporting
 Mobile application support
 Multi-user collaboration
+
+
 📈 Learning Outcomes
 Through this project, I improved my knowledge in:
 Full-stack web development
@@ -167,9 +173,12 @@ Authentication systems
 Cloud deployment
 AI-powered application workflows
 Professional project architecture
+
+
 👨‍💻 Developer
 Sane Lakshmidhar Reddy
 Computer Science Engineering (Data Science) Student
+
 Passionate about:
 Startups
 AI Applications
@@ -179,6 +188,7 @@ Future Tech Innovations
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/sanelakshmidhar-reddy-943b62318⁠�
+
 🔗 GitHub Repository:
 https://github.com/sanelakshmidharreddy/FUTURE_FS_02⁠�
 
